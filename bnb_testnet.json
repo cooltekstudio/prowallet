@@ -2,7 +2,8 @@
     "chain": {
         "name": "BNB",
         "code": "BNB",
-        "icon": "https://cooltekstudio.github.io/prowallet/bnb.png"
+        "icon": "https://cooltekstudio.github.io/prowallet/bnb.png",
+		"price": "https://www.binance.com/api/v3/ticker/price?symbol=BNBUSDT"
     },
     "USDT": {
         "address": "0xFc406250356Ec07e8D6D59678d3B611007499de1",
@@ -11,7 +12,7 @@
     "ExchangeToken": "0xCbD9eF07aCbb3cA14e3FDB7827f59831D3D3C4e3",
     "supportedTokens": [
         {
-            "name": "ZEN",
+            "n": "ZEN",
             "address": "0x7fdB2741f2fEF0F4b5f20075Ec1BE07F264Be306",
             "icon": "https://cooltekstudio.github.io/prowallet/zen.png"
         }
