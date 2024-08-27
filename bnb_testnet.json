@@ -1,0 +1,21 @@
+{
+    "chain": {
+        "name": "BNB",
+        "code": "BNB",
+        "icon": "https://cooltekstudio.github.io/prowallet/bnb.png"
+    },
+    "USDT": {
+        "address": "0xFc406250356Ec07e8D6D59678d3B611007499de1",
+        "icon": "https://cooltekstudio.github.io/prowallet/usdt.png"
+    },
+    "ExchangeToken": "0xCbD9eF07aCbb3cA14e3FDB7827f59831D3D3C4e3",
+    "supportedTokens": [
+        {
+            "name": "ZEN",
+            "address": "https://cooltekstudio.github.io/prowallet/zen.png",
+            "icon": ""
+        }
+    ],
+    "notes": "Khi gửi USDT lên sàn cần chọn mạng BNB Smart Chain(BEP20) và kiểm tra kỹ ví sàn vì sàn sẽ đổi ví định kỳ",
+    "rpc_endpoint": "https://data-seed-prebsc-1-s1.binance.org:8545/"	
+}
