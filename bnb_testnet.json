@@ -12,8 +12,8 @@
     "supportedTokens": [
         {
             "name": "ZEN",
-            "address": "https://cooltekstudio.github.io/prowallet/zen.png",
-            "icon": ""
+            "address": "0x7fdB2741f2fEF0F4b5f20075Ec1BE07F264Be306",
+            "icon": "https://cooltekstudio.github.io/prowallet/zen.png"
         }
     ],
     "notes": "Khi gửi USDT lên sàn cần chọn mạng BNB Smart Chain(BEP20) và kiểm tra kỹ ví sàn vì sàn sẽ đổi ví định kỳ",
