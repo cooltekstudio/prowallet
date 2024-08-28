@@ -1,7 +1,7 @@
 {
     "chain": {
         "name": "BNB",
-        "code": "BNB",
+        "symbol": "BNB",
         "icon": "https://cooltekstudio.github.io/prowallet/bnb.png",
 		"price": "https://www.binance.com/api/v3/ticker/price?symbol=BNBUSDT"
     },
@@ -17,6 +17,6 @@
             "icon": "https://cooltekstudio.github.io/prowallet/zen.png"
         }
     ],
-    "notes": "Khi gửi USDT lên sàn cần chọn mạng BNB Smart Chain(BEP20) và kiểm tra kỹ ví sàn vì sàn sẽ đổi ví định kỳ",
+    "notes": "Khi nạp hay rút USDT lên sàn cần chọn mạng BNB Smart Chain(BEP20) và kiểm tra kỹ ví sàn vì sàn sẽ đổi ví định kỳ",
     "rpc_endpoint": "https://data-seed-prebsc-1-s1.binance.org:8545/"	
 }
