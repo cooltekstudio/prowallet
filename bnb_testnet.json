@@ -9,11 +9,11 @@
         "address": "0xFc406250356Ec07e8D6D59678d3B611007499de1",
         "icon": "https://cooltekstudio.github.io/prowallet/usdt.png"
     },
-    "ExchangeToken": "0xfcF2D87bAEAf315578b54ca9D4974B90C1AA59C8",
+    "ExchangeToken": "0xd6C1cD1608aB407774F909b4De8ec8D41aF5ad42",
     "supportedTokens": [
         {
             "n": "ZEN",
-            "address": "0xa33842702AfF9BF8b327dbcE6B14d40a7D16D5f5",
+            "address": "0xE4ba5c733dF2c1e74c42F93ae22e049a1baF2854",
             "icon": "https://cooltekstudio.github.io/prowallet/zen.png"
         }
     ],
