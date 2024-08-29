@@ -1,0 +1,22 @@
+{
+    "chain": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "icon": "https://cooltekstudio.github.io/prowallet/eth.png",
+		"price": "https://www.binance.com/api/v3/ticker/price?symbol=ETHUSDT"
+    },
+    "USDT": {
+        "address": "0xa33842702AfF9BF8b327dbcE6B14d40a7D16D5f5",
+        "icon": "https://cooltekstudio.github.io/prowallet/usdt.png"
+    },
+    "ExchangeToken": "0xCBC072De6B2ef4624C9266c93e074a84C2768d4A",
+    "supportedTokens": [
+        {
+            "n": "ZEN",
+            "address": "0x3df9B2b18451FD9FF68C203259C55f61AcB8345d",
+            "icon": "https://cooltekstudio.github.io/prowallet/zen.png"
+        }
+    ],
+    "notes": "Khi nạp hay rút USDT lên sàn cần chọn mạng Ethereum(ERC20) và kiểm tra kỹ ví sàn vì sàn sẽ đổi ví định kỳ",
+    "rpc_endpoint": "https://sepolia.infura.io/v3/730275810c9d4385a193f46ef465ab11"	
+}
