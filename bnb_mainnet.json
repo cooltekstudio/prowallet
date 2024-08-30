@@ -21,5 +21,5 @@
         }
     ],
     "notes": "Khi nạp hay rút USDT lên sàn cần chọn mạng BNB Smart Chain(BEP20) và kiểm tra kỹ ví sàn vì sàn sẽ đổi ví định kỳ",
-    "rpc_endpoint": "https://data-seed-prebsc-1-s1.binance.org:8545/"	
+    "rpc_endpoint": "https://bsc-dataseed1.binance.org/"	
 }
