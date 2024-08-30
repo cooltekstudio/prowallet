@@ -6,17 +6,17 @@
 		"price": "https://www.binance.com/api/v3/ticker/price?symbol=BNBUSDT"
     },
     "USDT": {
-        "address": "0xFc406250356Ec07e8D6D59678d3B611007499de1",
+        "address": "0xe7eC455b5f325839Cb64AA9558A024427348B217",
         "icon": "https://cooltekstudio.github.io/prowallet/usdt.png"
     },
-    "ExchangeToken": "0xd6C1cD1608aB407774F909b4De8ec8D41aF5ad42",
+    "ExchangeToken": "0x4101D38DE1a2a462A027c2Ad5572e4E8e1d4231C",
     "supportedTokens": [
         {
             "n": "ZEN",
-            "address": "0xE4ba5c733dF2c1e74c42F93ae22e049a1baF2854",
+            "address": "0x96ef9DEDf4b48f50A17312274C5560F022867621",
             "icon": "https://cooltekstudio.github.io/prowallet/zen.png"
         }
     ],
-    "notes": "Khi nạp hay rút USDT lên sàn cần chọn mạng BNB Smart Chain(BEP20) và kiểm tra kỹ ví sàn vì sàn sẽ đổi ví định kỳ.",
+    "notes": "Khi nạp hay rút USDT lên sàn cần chọn mạng BNB Smart Chain(BEP20) và kiểm tra kỹ ví sàn vì sàn sẽ đổi ví định kỳ",
     "rpc_endpoint": "https://data-seed-prebsc-1-s1.binance.org:8545/"	
 }
