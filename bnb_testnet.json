@@ -8,6 +8,7 @@
     "USDT": {
 		"name": "USD Tether",
         "symbol": "USDT",
+		"decimals": 6,
         "address": "0xe7eC455b5f325839Cb64AA9558A024427348B217",
         "icon": "https://cooltekstudio.github.io/prowallet/usdt.png"
     },
